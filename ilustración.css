@@ -1,0 +1,42 @@
+/*Queen*/
+
+body{
+    background-image:url(https://img2.rtve.es/a/5687219?w=400&preview=1603093247963.jpg);
+    color:#ff3232;
+    font-family: 'Playfair Display', serif;
+    
+}
+div{
+    background-color: rgb(0, 8, 8, 70%);
+}
+
+h3{
+    color:#aaa8a8;
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+}
+
+h1{
+    color: #ffde32;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.img {
+    width: 400px;
+    height: 400px;
+    border-style: double;
+    border-color: #790216;
+    border-width: thick;
+    padding: 30px;
+    margin-bottom: 25px;
+    margin-left: 440px;  
+}
+iframe{
+    margin-left: 500px; 
+}
+
+small{
+    color: #ff4970;
+}
